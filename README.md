@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 I'm **Sampath Samaraweera**, a passionate Full Stack Developer with a focus on building scalable and robust web applications, mobile applications. My expertise lies in backend development, but I love working across the entire stack. I’m also exploring emerging technologies like AI and ML to stay ahead in the tech game.
 
 ### 🔭 I’m currently working on:
+- **Library Management System** using ReactJS, dotnet and Mysql
 - **E-Commerce Website** using the MERN stack
-- **LorrySwap**, a logistics platform for optimizing supply chains in agriculture
 
 <!--
 ### 🌱 I’m currently learning:
