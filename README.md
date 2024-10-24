@@ -32,7 +32,7 @@ I'm **Sampath Samaraweera**, a passionate Full Stack Developer with a focus on b
 - Innovative startups and hackathons
 
 ### 🛠️ Technologies:
-- React, React Native, Node.js, Python, Flask, SQL, MongoDB
+- React, React Native, Node.js, Python, Flask, .Net, Java, MySQL, SQL, MongoDB
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampath-samaraweera/)
